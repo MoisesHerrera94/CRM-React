@@ -1,0 +1,33 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Actuali",
+      "empresa": "Algo",
+      "email": "moyhr94@gmail.com",
+      "telefono": "+5491122546874",
+      "notas": "Juan fue actualizado",
+      "id": 1
+    },
+    {
+      "id": 3,
+      "nombre": "Josue",
+      "telefono": 31983913,
+      "email": "josue@juan.com",
+      "empresa": "Varias"
+    },
+    {
+      "id": 4,
+      "nombre": "Miguel",
+      "telefono": 319381983,
+      "email": "miguel@juan.com",
+      "empresa": "Otras"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": 1398198938,
+      "email": "pedro@juan.com",
+      "empresa": "Alguna"
+    }
+  ]
+}
